@@ -27,3 +27,5 @@ NOTE: Some versions file names have been changed to make build file names go wit
 
 
 ANOTHER NOTE: These builds last modified date was recent (as of March 12 2026) because of file name changes and the last modified dates being the dates I downloaded the files.
+
+ANOTHER NOTE: SP.swf is a 2008 prototype of the Scratch 2.0 player (source: https://en.scratch-wiki.info/wiki/Development_of_Scratch_2.0)
