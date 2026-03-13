@@ -8,7 +8,7 @@ https://github.com/githubcoderelatedstufflol/scratch-flash/raw/main/v44.swf (sou
 
 https://github.com/medlans/2.0-Archives (sources for most of the versions)
 
-https://scratcharchive.naleksuh.com/ (source for v2011.5.20, and all 2010 versions)
+https://scratcharchive.naleksuh.com/ (source for all 2011 and all 2010 versions (except for v18 and possibly v44)
 
 https://web.archive.org/web/20210325003527/https://github.com/retro-person/Scratch-Archive/tree/master/Scratch%202.0%20Versions (source for v111)
 
