@@ -1,0 +1,26 @@
+# static.yml - configuration for a static site
+
+# site info
+site_name: "Scratch Flash Archive"
+site_description: "Preserving Scratch 2 development builds and Flash history"
+base_url: "https://scratch2.museum.rf.gd"
+
+# build settings
+build:
+  output_dir: "public"   # folder where your built site goes
+  include:
+    - index.html
+    - style.css
+    - scratch2-builds/**
+    - assets/**
+
+# server settings (for static hosting)
+server:
+  port: 8080
+  clean_urls: true       # optional, makes URLs like /v44 instead of /v44.html
+  gzip: true             # optional, compress files for faster load
+
+# optional features
+features:
+  ruffle_support: true   # if you embed Ruffle.js for .swf files
+  embed_swf: true        # allow SWF files to be embedded in pages
