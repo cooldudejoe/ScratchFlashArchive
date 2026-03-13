@@ -4,7 +4,7 @@ These builds are tested on Ruffle (https://ruffle.rs)
 
 Credits:
 
-https://github.com/githubcoderelatedstufflol/scratch-flash/raw/main/v44.swf (source for v44, retrieved link from https://scratch.mit.edu/discuss/topic/632644/?page=2)
+https://github.com/githubcoderelatedstufflol/scratch-flash/raw/main/v44.swf (source for v44, retrieved link from https://scratch.mit.edu/discuss/topic/632644/?page=1)
 
 https://github.com/medlans/2.0-Archives (sources for most of the versions)
 
