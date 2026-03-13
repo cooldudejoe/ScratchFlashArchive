@@ -27,5 +27,3 @@ NOTE: Some versions file names have been changed to make build file names go wit
 
 
 ANOTHER NOTE: These builds last modified date was recent (as of March 12 2026) because of file name changes and the last modified dates being the dates I downloaded the files.
-
-ANOTHER NOTE: Ignore the .github/workflows folder
